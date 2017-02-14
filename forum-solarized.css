@@ -9,6 +9,10 @@
     background: #073642 !important;
 }
 
+.menu-panel {
+    background-color: #002b36 !important;
+}
+
 html {
     color: #839496 !important;
     font-family: Inconsolata,Helvetica,Arial,sans-serif;
