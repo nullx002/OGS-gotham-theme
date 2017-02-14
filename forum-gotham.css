@@ -1,0 +1,76 @@
+@-moz-document domain('forums.online-go.com'), url-prefix('https://forums.online-go.com') {
+
+.d-header {
+    background-color: #0c1014 !important;
+    box-shadow: none !important;
+}
+  
+.wrap {
+    background: #11151c !important;
+}
+
+.menu-panel {
+    background-color: #0c1014 !important;
+}    
+    
+html {
+    color: #839496 !important;
+    font-family: Inconsolata,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    direction: ltr;
+    background: #0c1014 !important;
+}  
+
+.d-header .title {
+    background: #d3ebe9 !important;
+    }    
+
+.topic-list a.title {
+    color: #eee;
+}  
+  
+wrapper.bullet span.badge-category {
+    color: #d3ebe9 !important;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}  
+  
+.nav-pills > li > a {
+    color: #d3ebe9 !important;
+}  
+
+.topic-list td {
+    font-size: 1em;
+    color: #d3ebe9 !important;
+}  
+  
+#topic-title h1 a {
+    color: #d3ebe9 !important;
+}  
+  
+.extra-info-wrapper .topic-link {
+    color: #d3ebe9 !important;
+}  
+  
+.badge-wrapper.bullet span.badge-category {
+    color: #d3ebe9 !important;
+}  
+  
+.extra-info-wrapper .badge-wrapper.bullet span.badge-category {
+    color: #d3ebe9 !important;
+} 
+  
+#topic-footer-buttons p {
+    color: #888ca6 !important;
+}
+  
+.list-controls .category-dropdown-menu {
+    background-color: #0c1014 !important;
+} 
+
+.list-controls .category-dropdown-menu a.badge-category {
+    color: #d3ebe9 !important;
+} 
+}
