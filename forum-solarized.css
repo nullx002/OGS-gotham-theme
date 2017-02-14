@@ -22,6 +22,10 @@ html {
     background: #073642 !important;
 }  
 
+.d-header .title {
+    background: #d3ebe9 !important;
+}    
+
 .topic-list a.title {
     color: #eee;
 }  
