@@ -118,5 +118,8 @@
   
   body.dark .MainGobanView.zen {
     background-color: #11151c !important;}
+  
+    body.dark .User .rating_details {
+    color: #d3ebe9 !important;}
 
 }  
