@@ -5,121 +5,178 @@
 @-moz-document domain("online-go.com") {
   
   body.dark #main-content, body.dark #main-content > div, body.dark body, body.dark html {
-    background-color: #11151c !important; color: #195466 !important; }
+    background-color: #11151c !important; 
+    color: #195466 !important; 
+  }
   
   body.dark #NavBar {
     background-color: #0c1014 !important;
-    color: #d3ebe9 !important; }
+    color: #d3ebe9 !important; 
+  }
   
   #NavBar .left a {
-    color: #d3ebe9 !important; }
+    color: #d3ebe9 !important; 
+  }
   
   body.dark .Card, body.dark .Modal {
-    border-color: #99d1ce !important; }
+    border-color: #99d1ce !important; 
+  }
   
   body.dark .Card, body.dark .Modal {
-    background-color: #0c1014 !important;}
+    background-color: #0c1014 !important;
+  }
   
   body.dark .result-lost, body.dark .Tournament .loss, body.dark .User .library-lost-result {
-    background-color: #c23127 !important; color: #edb443 !important;}
+    background-color: #c23127 !important; 
+    color: #edb443 !important;
+  }
   
   body.dark .result-won, body.dark .Tournament .win, body.dark .User .library-won-result {
-    background-color: #2aa889 !important; color: #195466 !important;}
+    background-color: #2aa889 !important; 
+    color: #195466 !important;
+  }
   
   body.dark .Player {
-    color: #4e5166 !important;}
+    color: #4e5166 !important;
+  }
   
   body.dark .clickable, body.dark .fakelink, body.dark a {
-    color: #d3ebe9 !important; }
+    color: #d3ebe9 !important;
+  }
   
   body.dark .btn.primary, body.dark .primary, body.dark a.btn.primary, body.dark button.primary {
-    border-color: #33859e !important;}
+    border-color: #33859e !important;
+  }
   
   body.dark .btn.primary, body.dark .primary, body.dark a.btn.primary, body.dark button.primary {
-    background-color: #33859e !important;}
+    background-color: #33859e !important;
+  }
   
   body.dark .progress {
-    border-color: #33859e !important;}
+    border-color: #33859e !important;
+  }
   
   body.dark .progress {
-    background-color: #0a3749 !important;}
+    background-color: #0a3749 !important;
+  }
   
   body.dark #NavBar .leftnav, body.dark #NavBar .rightnav {
-    background-color: #0c1014 !important;}
+    background-color: #0c1014 !important;
+  }
 
   body.dark .btn.success:focus, body.dark .btn.success:hover, body.dark a.btn.success:focus, body.dark a.btn.success:hover, body.dark button.success:focus, body.dark button.success {
-    border-color: #33859e !important; background-color: #33859e !important;}  
+    border-color: #33859e !important; 
+    background-color: #33859e !important;
+  }
   
   body.dark .btn.success:focus, body.dark .btn.success:hover, body.dark a.btn.success:focus, body.dark a.btn.success:hover, body.dark button.success:focus, body.dark button.success:hover {
-    border-color: #2aa889 !important; background-color: #2aa889 !important;}
+    border-color: #2aa889 !important; 
+    background-color: #2aa889 !important;
+  }
   
   body.dark .NewGameModal .body .new-game-button {
-    background-color: #33859e !important; color: #d3ebe9 !important;}
+    background-color: #33859e !important; 
+    color: #d3ebe9 !important;
+  }
 
   .NewGameModal .body .new-game-button {
-    border-radius: 0rem !important;}
+    border-radius: 0rem !important;
+  }
   
   body.dark .btn, body.dark a.btn, body.dark button {
-    color: #d3ebe9 !important;}
+    color: #d3ebe9 !important;
+  }
   
   body.dark .btn, body.dark a.btn, body.dark button {
-    border-color: #33859e !important;}
+    border-color: #33859e !important;
+  }
   
   body.dark .btn, body.dark a.btn, body.dark button {
-    background-color: #33859e !important;}
+    background-color: #33859e !important;
+  }
   
   .btn, a.btn, button {
-    border-radius: 0rem !important;}
+    border-radius: 0rem !important;
+  }
   
   body.dark .Modal {
-    color: #d3ebe9 !important;}
+    color: #d3ebe9 !important;
+  }
   
   .Modal {
-    border-radius: 0rem !important;}
+    border-radius: 0rem !important;
+  }
   
   body.dark .Dock, body.light .Dock {
-    background-color: #0c1014 !important;}
+    background-color: #0c1014 !important;
+  }
   
   .Dock {
     border-radius: 0rem !important;
-    border: 1px solid #11151c !important;}
+    border: 1px solid #11151c !important;
+  }
   
   body.dark .MainGobanView .players .black.player-container, body.light .MainGobanView .players .black.player-container {
-    background: #0c1014 !important;}
+    background: #0c1014 !important;
+  }
   
   .MainGobanView .players .black.player-container {
     border: 1px solid #d3ebe9 !important;
     box-shadow: none !important;
-    border-radius: 0rem !important;}
+    border-radius: 0rem !important;
+  }
   
   body.dark .MainGobanView .players .white.player-container, body.light .MainGobanView .players .white.player-container {
-    background: #f3f3f3 !important; color: #0c1014 !important;}
+    background: #f3f3f3 !important; 
+    color: #0c1014 !important;
+  }
   
   .MainGobanView .players .white.player-container {
     border: 1px solid #d3ebe9 !important;
     box-shadow: none !important;
-    border-radius: 0rem !important;} 
+    border-radius: 0rem !important;
+  }
   
   .chat-container {
-    border-radius: 0rem !important;}
+    border-radius: 0rem !important;
+  }
   
   body.dark .chat-container .chat-log.autoscrolling {
-    border-bottom-color: #2aa889;}
+    border-bottom-color: #2aa889;
+  }
   
   body.dark .chat-container .chat-log {
-    background-color: #11151c !important;}
+    background-color: #11151c !important;
+  }
   
   body.dark .chat-container .chat-line.spectator {
-    color: #33859e !important;}
+    color: #33859e !important;
+  }
   
   .Goban {
-    background-color: #deebe9 !important;
-    border-radius: 0px !important;}
+    background-color: #599cab !important;
+    border-radius: 0px !important;
+  }
   
   body.dark .MainGobanView.zen {
-    background-color: #11151c !important;}
+    background-color: #11151c !important;
+  }
   
-    body.dark .User .rating_details {
-    color: #d3ebe9 !important;}
+  body.dark .User .rating_details {
+    color: #d3ebe9 !important;
+  }
+  
+  body.dark .FriendIndicator .FriendList {
+    background-color: #0c1014 !important;
+  }
+  
+  .Player.online::before {
+    color: #2aa889 !important;
+    padding-right: 3px !important;
+  }
 
-}  
+  .Player.offline::before {
+    color: #4e5166 !important;
+    padding-right: 3px !important;
+  }
+}
