@@ -179,4 +179,26 @@
     color: #4e5166 !important;
     padding-right: 3px !important;
   }
-}
+  
+  .GroupList .group-name:hover {
+    background-color: #d3ebe9 !important;
+  }
+  
+  .GroupList .member-count:hover {
+    background-color: #d3ebe9 !important;
+  }
+  
+  .GroupList .group-list:hover {
+    background-color: #d3ebe9 !important;
+  }
+  
+  body.dark .PlayerDetails {
+    color: #edb443 !important;
+    background-color: #0c1014 !important;
+  }
+  
+  body.dark .PlayerDetails {
+    border-color: #d3ebe9 !important;
+  }
+  
+} 
